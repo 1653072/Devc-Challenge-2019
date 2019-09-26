@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>quoctk-w01-ass02</title>
+
+    <!-- Include style.css -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Include index javascript -->
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="element">
+            <img src="images/computing.jpg" class="img-computing"/>
+            <div id="requirement">COMPARISON BETWEEN <b>SUM OF ELEMENTS IN AN ARRAY</b> AND <b>GIVEN NUMBER</b></div>
+            <div id="arraySizeBox">
+                <label class="labelSizeBox">Size Of Array (Min: 1, Max: 1000):</label>
+                <input type="number" id="sizeArray">
+                <button id="generate">Generate</button>
+            </div>
+            <table border="1" id="tableBox">
+                <thead>
+                    <tr>
+                        <th><b>Given Number</b></th>
+                        <th><b>Value of Elements In An Array</b></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <input type="number" id="givenNumber">
+                        </td>
+                        <td id="eleArrayBox">
+                            <!-- LOOP HERE -->
+                        </td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td>
+                            <button id="compare">Compare</button>
+                        </td>
+                        <td>
+                            <label id="resultMsg">...</label>
+                        </td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

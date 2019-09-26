@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>quoctk-w01-lab</title>
+
+    <!-- Include style.css -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Include index javascript -->
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="element">
+            <h2>CURRENCY CONVERTER</h2>
+            <h4>Select Input Currency</h4>
+            <form class="currency-form">
+                <input type="radio" name="currency" value="USD" checked>USD
+                <input type="radio" name="currency" value="EUR">EUR
+            </form>
+            <div class="convert-result">
+                <b>Result:</b>
+                <label id="result">.....</label>
+                <b>VND</b>
+            </div>
+            <div class="inputbox">
+                <input type="number" id="amount" min="0" />
+                <button id="convert">Convert</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

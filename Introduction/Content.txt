@@ -1,0 +1,34 @@
+Chương trình THỬ THÁCH ĐỔI MỚI
+Demo day: 14/12/2019
+Deadline lập nhóm: 11/10
+	+ 3-5 thành viên/nhóm
+	+ Thành viên từ 3 Track khác nhau
+Happy Hour: 5 tuần đầu tiên (Thứ 6, 6:30 - 7:30 PM)
+Các vấn đề liên quan đến TỔ CHỨC: 
+	+ Chị Hằng (hang.pham@coderschool.vn)
+	+ Anh Nhân (nhan@coderschool.vn)
+Các vấn đề liên quan đến ĐÀO TẠO:
+	+ Anh Tiến (tien@coderschool.vn)
+	+ Chị Thanh (thanh@coderschool.vn)
+Chính sách tham gia:
+	+ Không được đổi lớp
+	+ Có lý do vắng mặt: Gửi Email đến chị Thanh và CC giảng viên, trợ giảng lớp.
+	+ Vẳng mặt nhiều hơn 2 buổi => Dừng chương trình
+Chính sách nộp bài tập:
+	+ Nộp bài tập trước 23:59 tối Chủ nhật hàng tuần. [BẮT BUỘC NỘP TRƯỚC DEADLINE]
+	+ Nộp trễ/không nộp 2 lần => Dừng chương trình
+	+ Tất cả bài giảng, bài lab, assignment được upload trên "http://learning.coderschool.vn"
+	(Đăng nhập bằng Email và cài đặt mật khẩu)
+	+ Thông tin trao đổi về bài tập qua Discord
+Ký giấy tờ:
+	+ Nội quy đào tạo
+	+ Cam kết bảo mật thông tin
+	+ Lộ trình
+
+
+
+
+
+
+
+
