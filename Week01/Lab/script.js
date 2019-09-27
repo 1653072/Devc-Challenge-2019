@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {    
+document.addEventListener("DOMContentLoaded", function() { 
     document.getElementById("convert").addEventListener("click", function() {    
         let amount = document.getElementById("amount").value;
 
