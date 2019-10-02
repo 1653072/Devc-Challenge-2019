@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     let sizeArray = 0;
-
+    
     document.getElementById("generate").addEventListener("click", function() {
         sizeArray = document.getElementById("sizeArray").value;
         if (sizeArray < 1 || sizeArray > 1000) {
