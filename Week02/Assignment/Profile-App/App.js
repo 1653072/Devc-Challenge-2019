@@ -126,8 +126,8 @@ const styles = StyleSheet.create({
   profileboxAvatar: {
     width: 80,
     height: 80,
-    borderRadius: 1000,
-    resizeMode: 'stretch',
+    borderRadius: 100,
+    resizeMode: 'cover',
   },
   profileboxInfo: {
     flexDirection: 'column',
