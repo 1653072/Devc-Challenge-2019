@@ -1,0 +1,2 @@
+Folder RPS : Sử dụng State & Props theo hình thức "Hooks (useState)".
+Folder RockPaperScissor : Sử dụng State & Props theo hình thức "Class - Component".
