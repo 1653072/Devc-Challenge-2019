@@ -65,7 +65,6 @@ export default class App extends React.Component {
         this.state.articles.concat(jsonData.articles)
       );
 
-      console.log("Current page number: " + this.state.pageNumber + " - Length article: " + newArticleList.length)
       let newPageNumber = this.state.pageNumber + 1
         
       this.setState({
